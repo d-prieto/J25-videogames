@@ -9,3 +9,6 @@ Videogame creation class in Hamelin Laie
 
 ###### least important title
 
+https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md
+
+https://www.google.com/
